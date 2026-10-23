@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework-primary.dia",
+    "emit-module-dependencies" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework-primary-emit-module.dia",
+    "pch" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework-primary.swiftdeps"
+  },
+  "/Users/imekeev/StudioProjects/campus_events/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework/Sources/FlutterFramework/FlutterFramework.swift" : {
+    "const-values" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework.swiftconstvalues",
+    "dependencies" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework.d",
+    "diagnostics" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework.dia",
+    "index-unit-output-path" : "/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework.o",
+    "llvm-bc" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework.bc",
+    "object" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework.o",
+    "swift-dependencies" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework.swiftdeps",
+    "swiftmodule" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework-t.build/Objects-normal/arm64/FlutterFramework~partial.swiftmodule"
+  }
+}

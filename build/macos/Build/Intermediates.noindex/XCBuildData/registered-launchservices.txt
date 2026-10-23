@@ -1,0 +1,1 @@
+/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Products/Debug/campus_events.app

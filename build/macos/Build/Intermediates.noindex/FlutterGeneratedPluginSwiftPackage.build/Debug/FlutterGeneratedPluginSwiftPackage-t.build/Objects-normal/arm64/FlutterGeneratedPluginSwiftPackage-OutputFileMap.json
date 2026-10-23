@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage-primary.dia",
+    "emit-module-dependencies" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage-primary-emit-module.dia",
+    "pch" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage-primary.swiftdeps"
+  },
+  "/Users/imekeev/StudioProjects/campus_events/macos/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Sources/FlutterGeneratedPluginSwiftPackage/FlutterGeneratedPluginSwiftPackage.swift" : {
+    "const-values" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage.swiftconstvalues",
+    "dependencies" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage.d",
+    "diagnostics" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage.dia",
+    "index-unit-output-path" : "/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage.o",
+    "llvm-bc" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage.bc",
+    "object" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage.o",
+    "swift-dependencies" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage.swiftdeps",
+    "swiftmodule" : "/Users/imekeev/StudioProjects/campus_events/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage-t.build/Objects-normal/arm64/FlutterGeneratedPluginSwiftPackage~partial.swiftmodule"
+  }
+}
